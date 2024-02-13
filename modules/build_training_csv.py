@@ -38,7 +38,7 @@ class Testing_file_maker:
             if (offsets[-1] != bias_top):
                 offsets.append(bias_top)
         else:
-            offsets = [DEFAULT_BIAS]
+            offsets = [dc_bias]
         
         # Create dataframe
         num_wave_points = len(waves[0])

@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/dylanjones/opt/miniconda3/envs/mldrivenpeled/lib/site-packages",
+        "./modules"
+    ],
+    "python.autoComplete.extraPaths": [
+        "./modules"
+    ]
+}
