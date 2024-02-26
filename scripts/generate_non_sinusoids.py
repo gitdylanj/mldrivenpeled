@@ -68,3 +68,4 @@ for i in range(1, len(waveform_collection), 1):
     plt.ylabel("Voltage Units (Arb)")
     plt.savefig(file_path)
     plt.clf()
+print("Done!")
