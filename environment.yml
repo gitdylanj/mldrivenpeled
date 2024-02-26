@@ -1,5 +1,5 @@
 name: ml_driven_peled
-channels: 
+channels:
   - conda-forge
   - pytorch # Necessary for pytorch installation
   - defaults
