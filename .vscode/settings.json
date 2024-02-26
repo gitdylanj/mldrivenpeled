@@ -1,9 +1,11 @@
 {
     "python.analysis.extraPaths": [
-        "/Users/dylanjones/opt/miniconda3/envs/mldrivenpeled/lib/site-packages",
+        "/Users/dylanjones/opt/miniconda3/envs/ml_driven_peled/lib/site-packages",
         "./modules"
     ],
     "python.autoComplete.extraPaths": [
         "./modules"
-    ]
+    ],
+   "python.defaultInterpreterPath": "/Users/dylanjones/opt/miniconda3/envs/ml_driven_peled/bin/python"
+
 }
